@@ -1,0 +1,9 @@
+C:\Users\kouta\source\repos\CivilTerror\Server\bin\Debug\Server.exe.config
+C:\Users\kouta\source\repos\CivilTerror\Server\bin\Debug\Server.exe
+C:\Users\kouta\source\repos\CivilTerror\Server\bin\Debug\Server.pdb
+C:\Users\kouta\source\repos\CivilTerror\Server\bin\Debug\Common.dll
+C:\Users\kouta\source\repos\CivilTerror\Server\bin\Debug\Common.pdb
+C:\Users\kouta\source\repos\CivilTerror\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\kouta\source\repos\CivilTerror\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\kouta\source\repos\CivilTerror\Server\obj\Debug\Server.exe
+C:\Users\kouta\source\repos\CivilTerror\Server\obj\Debug\Server.pdb

@@ -1,0 +1,10 @@
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\bin\Debug\CivilTerror.exe.config
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\bin\Debug\CivilTerror.exe
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\bin\Debug\CivilTerror.pdb
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\obj\Debug\SpriteChat.SpriteChatClient.resources
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\obj\Debug\SpriteChat.ServerForm.resources
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\obj\Debug\CivilTerror.Properties.Resources.resources
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\obj\Debug\SpriteChat.csproj.GenerateResource.cache
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\obj\Debug\CivilTerror.exe
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\obj\Debug\CivilTerror.pdb
+C:\Users\kouta\source\repos\CivilTerror\CivilTerror\obj\Debug\SpriteChat.csprojAssemblyReference.cache

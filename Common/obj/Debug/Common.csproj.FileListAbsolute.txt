@@ -1,0 +1,4 @@
+C:\Users\kouta\source\repos\CivilTerror\Common\bin\Debug\Common.dll
+C:\Users\kouta\source\repos\CivilTerror\Common\bin\Debug\Common.pdb
+C:\Users\kouta\source\repos\CivilTerror\Common\obj\Debug\Common.dll
+C:\Users\kouta\source\repos\CivilTerror\Common\obj\Debug\Common.pdb
