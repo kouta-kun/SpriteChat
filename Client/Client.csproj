@@ -98,13 +98,13 @@
     <None Include="Overworld.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="map.bmp" />
+    <ProjectReference Include="..\StandardCommon\StandardCommon.csproj">
+      <Project>{5ce49693-13e7-4edd-9841-8535d35ce4d8}</Project>
+      <Name>StandardCommon</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Common\Common.csproj">
-      <Project>{B56C10C1-BE0E-4106-9EFE-A5B124160A0D}</Project>
-      <Name>Common</Name>
-    </ProjectReference>
+    <None Include="map.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

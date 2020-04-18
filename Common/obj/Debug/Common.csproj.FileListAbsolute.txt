@@ -2,3 +2,8 @@ C:\Users\kouta\source\repos\CivilTerror\Common\bin\Debug\Common.dll
 C:\Users\kouta\source\repos\CivilTerror\Common\bin\Debug\Common.pdb
 C:\Users\kouta\source\repos\CivilTerror\Common\obj\Debug\Common.dll
 C:\Users\kouta\source\repos\CivilTerror\Common\obj\Debug\Common.pdb
+C:\Users\Bedroom1\source\repos\SpriteChat\Common\bin\Debug\Common.dll
+C:\Users\Bedroom1\source\repos\SpriteChat\Common\bin\Debug\Common.pdb
+C:\Users\Bedroom1\source\repos\SpriteChat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Bedroom1\source\repos\SpriteChat\Common\obj\Debug\Common.dll
+C:\Users\Bedroom1\source\repos\SpriteChat\Common\obj\Debug\Common.pdb

@@ -1,0 +1,4 @@
+C:\Users\Bedroom1\source\repos\SpriteChat\CoreServer\bin\Debug\netcoreapp3.1\CoreServer.exe
+C:\Users\Bedroom1\source\repos\SpriteChat\CoreServer\bin\Debug\netcoreapp3.1\StandardCommon.dll
+C:\Users\Bedroom1\source\repos\SpriteChat\CoreServer\bin\Debug\netcoreapp3.1\CoreServer.dll
+C:\Users\Bedroom1\source\repos\SpriteChat\CoreServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

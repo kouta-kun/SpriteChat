@@ -7,3 +7,13 @@ C:\Users\kouta\source\repos\CivilTerror\Server\obj\Debug\Server.csprojAssemblyRe
 C:\Users\kouta\source\repos\CivilTerror\Server\obj\Debug\Server.csproj.CopyComplete
 C:\Users\kouta\source\repos\CivilTerror\Server\obj\Debug\Server.exe
 C:\Users\kouta\source\repos\CivilTerror\Server\obj\Debug\Server.pdb
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\bin\Debug\Server.exe.config
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\bin\Debug\Server.exe
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\bin\Debug\Server.pdb
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\bin\Debug\Common.dll
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\bin\Debug\Common.pdb
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\obj\Debug\Server.exe
+C:\Users\Bedroom1\Source\Repos\SpriteChat\Server\obj\Debug\Server.pdb

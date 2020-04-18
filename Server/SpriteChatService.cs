@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System.Net.Sockets;
 using System.Threading;
 using System.Drawing;
-using System.Windows.Forms;
 using Timer = System.Threading.Timer;
 using SpriteChat.Common;
 
@@ -17,10 +16,10 @@ namespace SpriteChat.Server
         Socket listener;
         readonly ManualResetEvent done = new ManualResetEvent(false);
 
-        internal SynchronizedCollection<ClientObject> clientCollection = new SynchronizedCollection<ClientObject>();
+        readonly internal System.Collections.Concurrent.ConcurrentBag<ClientObject> clientCollection = new System.Collections.Concurrent.ConcurrentBag<ClientObject>();
         readonly Thread listenThread;
-        private short[] mapTiles = new short[65 * 65];
-        private List<(ClientObject sender, string message)> lastMessages = new List<(ClientObject sender, string message)>();
+        private readonly short[] mapTiles = new short[65 * 65];
+        private readonly List<(ClientObject sender, string message)> lastMessages = new List<(ClientObject sender, string message)>();
 
         public void Stop()
         {
@@ -29,14 +28,10 @@ namespace SpriteChat.Server
             tt = null;
         }
 
-        public SpriteChatService()
+        public SpriteChatService(string backgroundPath)
         {
             Bitmap map;
-            using (OpenFileDialog ofd = new OpenFileDialog())
-            {
-                ofd.ShowDialog();
-                map = (Bitmap)Image.FromFile(ofd.FileName);
-            }
+            map = (Bitmap)Image.FromFile(backgroundPath);
             for (int y = 0; y < 65; y++)
             {
                 for (int x = 0; x < 65; x++)
